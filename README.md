@@ -22,7 +22,7 @@ Indi Necha?! is a lightweight and efficient application that provides real-time 
 To download and install Indi Necha?! on Windows using Winget, use the following command:
 
 ```sh
-winget install indi-necha
+winget install wl-std.indi-necha
 ```
 
 ### Option 2: Download from Server (Windows)
