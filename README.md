@@ -17,6 +17,14 @@ Indi Necha?! is a lightweight and efficient application that provides real-time 
 
 ## 📥 Download
 
+| Platform | Status |
+|----------|----------|
+| Windows | ✅ Stable|
+| MacOS | ⏳ Soon |
+| Linux | ⏳ Soon |
+| Android | ⏳ Soon |
+| Web | ⏳ Soon |
+
 ### Option 1: Download using Winget (Recommended for Windows) (soon)
 
 To download and install Indi Necha?! on Windows using Winget, use the following command:
