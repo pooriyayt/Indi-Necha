@@ -45,6 +45,12 @@ We offer three download options from Iranian servers:
 
 - 🖥️ **Linux & Android & macOS versions coming soon!** Stay tuned for updates.
 
+## 🖼️ Images
+<p align="center">
+<img src="https://cdn.wl-std.com/assets/image/project/indi%20necha%201.png" alt="indi necha 1" >
+<img src="https://cdn.wl-std.com/assets/image/project/indi%20necha%202.png" alt="indi necha 2" >
+    </p>
+
 ## 🛡️ Security & Privacy
 
 Your security is our top priority. Indi Necha?! does **not** collect, store, or share any user data. The application functions purely as an exchange rate viewer, requiring no special permissions.
