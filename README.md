@@ -8,12 +8,14 @@ Indi Necha?! is a lightweight and efficient application that provides real-time 
     <img src="https://img.shields.io/badge/License-Custom Proprietary License-blue" alt="license" ><br>
 </p>
 
+
 ## 🚀 Features
 
 - 🔄 **Real-Time Exchange Rates** – Always stay updated with the latest currency values.
 - 🌍 **Multi-Currency Support** – Track exchange rates for a wide range of global currencies.
 - ⚡ **Fast & Lightweight** – No unnecessary features, just the info you need.
 - 🛡️ **Privacy-Friendly** – No data collection, no ads, and no required permissions.
+
 
 ## 📥 Download
 
@@ -53,11 +55,13 @@ We offer three download options from Iranian servers:
 
 - 🖥️ **Linux & Android & macOS versions coming soon!** Stay tuned for updates.
 
+
 ## 🖼️ Images
 <p align="center">
 <img src="https://cdn.wl-std.com/assets/image/project/indi%20necha%201.png" alt="indi necha 1" width="300">
 <img src="https://cdn.wl-std.com/assets/image/project/indi%20necha%202.png" alt="indi necha 2" width="300">
     </p>
+
 
 ## 🛡️ Security & Privacy
 
