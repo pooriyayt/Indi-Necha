@@ -55,8 +55,8 @@ We offer three download options from Iranian servers:
 
 ## 🖼️ Images
 <p align="center">
-<img src="https://cdn.wl-std.com/assets/image/project/indi%20necha%201.png" alt="indi necha 1" >
-<img src="https://cdn.wl-std.com/assets/image/project/indi%20necha%202.png" alt="indi necha 2" >
+<img src="https://cdn.wl-std.com/assets/image/project/indi%20necha%201.png" alt="indi necha 1" width="300">
+<img src="https://cdn.wl-std.com/assets/image/project/indi%20necha%202.png" alt="indi necha 2" width="300">
     </p>
 
 ## 🛡️ Security & Privacy
