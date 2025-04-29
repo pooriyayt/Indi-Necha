@@ -55,7 +55,9 @@ We offer three download options from Iranian servers:
 
 - 🖥️ **Linux & Android & macOS versions coming soon!** Stay tuned for updates.
 
+<br>
 
+> Idea by [Nima](https://github.com/nima-globals)
 ## 🖼️ Images
 <p align="center">
 <img src="https://cdn.wl-std.com/assets/image/project/indi%20necha%201.png" alt="indi necha 1" width="300">
